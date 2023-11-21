@@ -1,0 +1,3 @@
+C:/Users/dam2t06/Documents/CODE/c++Repo/firstTryCPP/cmake-build-debug/CMakeFiles/firstTryCPP.dir
+C:/Users/dam2t06/Documents/CODE/c++Repo/firstTryCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dam2t06/Documents/CODE/c++Repo/firstTryCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
